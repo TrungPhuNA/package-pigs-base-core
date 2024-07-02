@@ -19,6 +19,6 @@ class PigsBaseCoreServiceProvider extends ServiceProvider
      */
     public function boot(): void
     {
-//        $this->lo
+
     }
 }

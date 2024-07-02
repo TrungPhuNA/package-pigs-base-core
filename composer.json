@@ -8,8 +8,7 @@
             "Pigs\\BaseCore\\": "src/"
         },
         "files": [
-            "src/helpers/autoload.php",
-            "src/helpers/auth.php"
+            "src/helpers/autoload.php"
         ]
     },
     "authors": [
@@ -19,5 +18,7 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "php": "^8.1"
+    }
 }
