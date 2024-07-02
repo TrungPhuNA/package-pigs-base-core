@@ -6,7 +6,11 @@
     "autoload": {
         "psr-4": {
             "Pigs\\BaseCore\\": "src/"
-        }
+        },
+        "files": [
+            "src/helpers/autoload.php",
+            "src/helpers/auth.php"
+        ]
     },
     "authors": [
         {
