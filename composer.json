@@ -1,0 +1,19 @@
+{
+    "name": "pigs/base-core",
+    "description": "Build core and helpers",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Pigs\\BaseCore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "phudev",
+            "email": "codethue94@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
